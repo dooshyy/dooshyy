@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c1/4d/8b/c14d8b1d0b99135d0f4e65d328403b83.jpg" width="80%" alt="pink aesthetic banner" />
+  <img src="https://i.pinimg.com/originals/46/b5/6f/46b56f087b6af02e984ed75da0faf02c.gif" width="80%" alt="pink aesthetic banner" />
 </p>
 
 ### 💖 about me

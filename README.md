@@ -18,7 +18,7 @@ when i’m not coding, i’m probably drawing, gaming, or organizing my desktop 
 
 🌷 **currently working on:**  
 > something sweet and pink — a cozy web app for creative minds.  
-> 👉 [peek at my latest project](https://github.com/yourusername/cozy-app)
+> 👉 [Soon!](https://i.pinimg.com/originals/18/ba/5d/18ba5d426eae90d75234a5df205081a8.gif)
 
 ---
 
@@ -50,7 +50,7 @@ when i’m not coding, i’m probably drawing, gaming, or organizing my desktop 
 ### 💌 find me
 
 - ✨ **portfolio:** [coming soon]
-- 🌸 **github:** [github.com/yourusername](https://github.com/yourusername)
+- 🌸 **github:** [github.com/dooshy.64](https://github.com/dooshy.64)
 
 ---
 

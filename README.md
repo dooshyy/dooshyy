@@ -1,24 +1,24 @@
-<h1 align="center">🌸 hey, i'm dooshy.64</h1>
-<h3 align="center">✨ full-stack developer • she/her • creative builder • soft & strong</h3>
+<h1 align="center">💙 hey, i'm Pony</h1>
+<h3 align="center">✨ developer • he/him • creative coder • soft & chill</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=profile%20views&color=ffcfe9&style=flat" alt="dooshy" />
+  <img src="https://komarev.com/ghpvc/?username=ponyoniko&label=profile%20views&color=blue&style=flat" alt="Pony" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/46/b5/6f/46b56f087b6af02e984ed75da0faf02c.gif" width="80%" alt="pink aesthetic banner" />
+  <img src="https://i.pinimg.com/originals/5b/70/2d/5b702d8f2a2a6a9cf2d39a6e5c2e36d1.gif" width="80%" alt="blue aesthetic banner" />
 </p>
 
-### 💖 about me
+### 💙 about me
 
-hi! i’m **mary** — but online i go by **dooshy.64**. i’m a developer who loves blending clean code with pretty designs. i build with intention, kindness, and a touch of sparkle.  
-when i’m not coding, i’m probably drawing, gaming, or organizing my desktop way too often.
+hi! i’m **Pony** — online you can find me as **Pony Dev** or **ponyoniko**. i love crafting clean code with a splash of aesthetic.  
+when i’m not coding, i’m probably gaming, drawing, or geeking out over tech and tools.
 
-🌷 **currently working on:**  
-> something sweet and pink — a cozy web app for creative minds.  
-> 👉 [Soon!](https://i.pinimg.com/originals/18/ba/5d/18ba5d426eae90d75234a5df205081a8.gif)
+💫 **currently working on:**  
+> a chill & blue-inspired project — something fun for devs and creators.  
+> 👉 [coming soon](#)
 
 ---
 
@@ -39,24 +39,24 @@ when i’m not coding, i’m probably drawing, gaming, or organizing my desktop 
 ### 📊 github vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=true&bg_color=ffcfe9,ffb6e6,f5a9d0&title_color=fff&text_color=6d2c5e&icon_color=d957b9" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ponyoniko&theme=blueberry&hide_border=true&bg_color=blue,skyblue&title_color=fff&text_color=fff&icon_color=lightblue" alt="stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=f5a9d0,ffcfe9&title_color=fff&text_color=6d2c5e" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponyoniko&layout=compact&theme=blueberry&bg_color=skyblue,blue&title_color=fff&text_color=fff" alt="top langs" />
 </p>
 
 ---
 
 ### 💌 find me
 
-- ✨ **portfolio:** [coming soon]
-- 🌸 **github:** [github.com/dooshyy](https://github.com/dooshyy)
+- 💫 **portfolio:** [coming soon]
+- 💙 **github:** [github.com/ponyoniko](https://github.com/ponyoniko)
 
 ---
 
 <p align="center">
-  <i>built with care, cherry blossoms, and too many matcha lattes</i> 🌸
+  <i>crafted with care and too many coffees</i> 💙
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/74/63/d7/7463d78d184c43bb878ee9b63d5e8652.gif" width="70%" alt="pink divider" />
+  <img src="https://i.pinimg.com/originals/1f/2a/9b/1f2a9b8dc1a5a17a1f4e4b4a2dfb8c5f.gif" width="70%" alt="blue divider" />
 </p>

@@ -1,8 +1,8 @@
-<h1 align="center">💙 hey, i'm Pony</h1>
+<h1 align="center">💙 hey, i'm Treaki</h1>
 <h3 align="center">✨ developer • he/him • creative coder • soft & chill</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ponyoniko&label=profile%20views&color=blue&style=flat" alt="Pony" />
+  <img src="https://komarev.com/ghpvc/?username=treakii&label=profile%20views&color=blue&style=flat" alt="Treaki" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 ### 💙 about me
 
-hi! i’m **Pony** — online you can find me as **Pony Dev** or **ponyoniko**. i love crafting clean code with a splash of aesthetic.  
+hi! i’m **Treaki** — online you can find me as **Treaki Dev** or **Treakioniko**. i love crafting clean code with a splash of aesthetic.  
 when i’m not coding, i’m probably gaming, drawing, or geeking out over tech and tools.
 
 💫 **currently working on:**  
@@ -39,7 +39,7 @@ when i’m not coding, i’m probably gaming, drawing, or geeking out over tech 
 ### 💌 find me
 
 - 💫 **portfolio:** [coming soon]
-- 💙 **github:** [github.com/ponyoniko](https://github.com/ponyoniko)
+- 💙 **github:** [github.com/treakiii](https://github.com/treakiii)
 
 ---
 
